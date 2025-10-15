@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+git image
+![image alt](https://github.com/likhonahamedla/Simple-Calculator/blob/4116a9dd444a1f348111b0c56b6f413f2931a54d/screenShots/Screenshot_20251015_174342.png)
 
 This project is a starting point for a Flutter application.
 
